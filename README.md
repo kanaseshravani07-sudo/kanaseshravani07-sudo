@@ -60,7 +60,6 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 
 ---
 
-## 🤝 Let's Connect
 
 ## 🌐 Connect With Me
 
