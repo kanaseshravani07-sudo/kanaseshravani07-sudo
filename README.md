@@ -63,7 +63,7 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/shravani-kanase-698189375">
+  <a href="https://www.linkedin.com/in/shravani-kanase-698189375/?skipRedirect=true">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
   </a>
   &nbsp;&nbsp;
@@ -74,6 +74,11 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
   <a href="https://github.com/kanaseshravani07-sudo">
     <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="45"/>
   </a>
+  <a href="https://instagram.com/shra_k07"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+
+<a href="https://twitter.com/shravu_0610"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
+
+<a href="https://t.me/Shra_k07"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
   &nbsp;&nbsp;
   
 </p>
