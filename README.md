@@ -91,10 +91,6 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 </p>
 
 <p align="center">
-  🚀 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🌦 Climate-Tech Explorer • 🏆 Hackathon Builder
-</p>
-
-<p align="center">
   <i>"Turning Ideas into Impactful Solutions Through Code & Innovation"</i>
 </p>
 
