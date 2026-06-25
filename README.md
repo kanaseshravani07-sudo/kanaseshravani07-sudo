@@ -49,6 +49,15 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 ---
 
 ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanaseshravani07-sudo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanaseshravani07-sudo&theme=tokyonight" />
+</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanaseshravani07-sudo&theme=tokyonight" />
@@ -57,12 +66,7 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanaseshravani07-sudo&layout=compact&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanaseshravani07-sudo&theme=tokyonight&row=1&column=6" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanaseshravani07-sudo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
+
 ---
 
 
