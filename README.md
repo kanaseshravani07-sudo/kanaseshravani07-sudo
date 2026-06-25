@@ -62,12 +62,28 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="https://github.com/kanaseshravani07-sudo">GitHub</a>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kanaseshravani07-sudo">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+  </a>
+</p>
+
+<p align="center">
+💡 Open to Collaboration • 🚀 Hackathons • 🤖 AI/ML Projects • 🌐 Full-Stack Development
 </p>
 
 <p align="center">
