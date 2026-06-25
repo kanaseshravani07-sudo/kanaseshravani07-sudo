@@ -57,7 +57,9 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanaseshravani07-sudo&layout=compact&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanaseshravani07-sudo&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+</p>
 ---
 
 
