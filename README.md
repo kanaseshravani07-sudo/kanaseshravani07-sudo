@@ -20,41 +20,7 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 * 🏆 Active Hackathon Participant
 * 🌱 Currently learning Cloud Computing and DevOps
 
----
 
-## 🚀 Featured Projects
-
-### 🌦 Bharat Climate Twin
-
-AI-powered Digital Twin of India's Climate using national datasets.
-
-**Tech:** Python, FastAPI, Machine Learning, GIS, React
-
----
-
-### ☁️ Cloud Removal & Reconstruction
-
-AI model for removing cloud cover from satellite imagery and reconstructing hidden regions.
-
-**Tech:** Deep Learning, Computer Vision, Satellite Data
-
----
-
-### 🌾 AgriShare
-
-Agriculture collaboration platform connecting farmers, buyers, and experts.
-
-**Tech:** React, Node.js, MongoDB, Express
-
----
-
-### 📒 iNotebook
-
-Secure cloud-based notes management application.
-
-**Tech:** React, Node.js, MongoDB, JWT Authentication
-
----
 
 ## 🛠️ Tech Stack
 
@@ -87,10 +53,6 @@ Secure cloud-based notes management application.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanaseshravani07-sudo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanaseshravani07-sudo&theme=tokyonight" />
 </p>
 
@@ -100,27 +62,12 @@ Secure cloud-based notes management application.
 
 ---
 
-## 🏆 Achievements
-
-* 🚀 Participated in National-Level Hackathons
-* 🤖 Built AI/ML-Based Applications
-* 🌐 Developed Full-Stack Web Applications
-* 📈 Continuously Learning and Building
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
 <a href="mailto:YOUR_EMAIL">Email</a> •
 <a href="https://github.com/kanaseshravani07-sudo">GitHub</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kanaseshravani07-sudo&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
