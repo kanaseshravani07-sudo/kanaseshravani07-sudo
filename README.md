@@ -62,26 +62,42 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 
 ## 🤝 Let's Connect
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/shravani-kanase-698189375/?skipRedirect=true">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
+  <a href="https://www.linkedin.com/in/shravani-kanase-698189375">
+    <img src="https://img.shields.io/badge/LinkedIn-Shravani%20Kanase-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="mailto:kanaseshravani07@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://github.com/kanaseshravani07-sudo">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="45"/>
+    <img src="https://img.shields.io/badge/GitHub-kanaseshravani07--sudo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/shra_k07"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
-<a href="https://twitter.com/shravu_0610"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
+  <a href="https://instagram.com/shra_k07">
+    <img src="https://img.shields.io/badge/Instagram-@shra__k07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-<a href="https://t.me/Shra_k07"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
-  &nbsp;&nbsp;
-  
+  <a href="https://twitter.com/shravu_0610">
+    <img src="https://img.shields.io/badge/X-@shravu__0610-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/Shra_k07">
+    <img src="https://img.shields.io/badge/Telegram-@Shra__k07-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  🚀 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🌦 Climate-Tech Explorer • 🏆 Hackathon Builder
+</p>
+
+<p align="center">
+  <i>"Turning Ideas into Impactful Solutions Through Code & Innovation"</i>
+</p>
+
 
 <p align="center">
 💡 Open to Collaboration • 🚀 Hackathons • 🤖 AI/ML Projects • 🌐 Full-Stack Development
