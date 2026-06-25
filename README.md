@@ -51,48 +51,13 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 ## 📊 GitHub Statistics
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanaseshravani07-sudo&theme=tokyonight" height="170"/>
 </p>
 
-
 ---
-
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/shravani-kanase-698189375">
-    <img src="https://img.shields.io/badge/LinkedIn-Shravani%20Kanase-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="mailto:kanaseshravani07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/kanaseshravani07-sudo">
-    <img src="https://img.shields.io/badge/GitHub-kanaseshravani07--sudo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://instagram.com/shra_k07">
-    <img src="https://img.shields.io/badge/Instagram-@shra__k07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://twitter.com/shravu_0610">
-    <img src="https://img.shields.io/badge/X-@shravu__0610-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://t.me/Shra_k07">
-    <img src="https://img.shields.io/badge/Telegram-@Shra__k07-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/shravani-kanase-698189375"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kanaseshravani07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -101,6 +66,8 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
   <a href="https://twitter.com/shravu_0610"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://t.me/Shra_k07"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
+
+---
 
 <p align="center">
   <i>"Turning Ideas into Impactful Solutions Through Code & Innovation"</i>
