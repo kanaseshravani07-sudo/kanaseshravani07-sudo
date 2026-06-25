@@ -15,10 +15,8 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 * 🎓 Computer Engineering Student
 * 💻 Full-Stack Developer (MERN Stack)
 * 🤖 Passionate about AI/ML and Computer Vision
-* 🌦 Currently building an AI-Powered Digital Twin of India's Climate
 * 🛰 Interested in Space-Tech, Climate-Tech, and Healthcare Innovation
 * 🏆 Active Hackathon Participant
-* 🌱 Currently learning Cloud Computing and DevOps
 
 
 
@@ -65,11 +63,11 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/shravani-kanase-698189375">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kanaseshravani07@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
   </a>
   &nbsp;&nbsp;
@@ -77,9 +75,7 @@ Building impactful solutions using AI, Cloud, and Modern Web Technologies
     <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
-  </a>
+  
 </p>
 
 <p align="center">
