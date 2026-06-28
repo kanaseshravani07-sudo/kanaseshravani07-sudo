@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shravani Kanase</h1>
+<h1 align="center">Hi 👋, I'm Shravani Subhash Kanase</h1>
 
 <h3 align="center">
 🚀 AI/ML Enthusiast | Full-Stack MERN Developer | Hackathon Builder
